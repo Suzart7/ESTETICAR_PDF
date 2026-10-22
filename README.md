@@ -4,7 +4,7 @@ Uma ferramenta simples para criar **orçamentos, recibos e pedidos** em poucos s
 
 ## Acesso
 
-🔗 **https://suzart7.github.io/PrototipoReciboPdf/**
+🔗 **https://suzart7.github.io/ESTETICAR_PDF/**
 
 Funciona em qualquer navegador — Chrome, Safari, etc. Não precisa de internet depois que a página carrega pela primeira vez.
 
